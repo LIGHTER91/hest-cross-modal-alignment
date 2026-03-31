@@ -1,0 +1,42 @@
+{
+  "fold_0": {
+    "n_train": 8364,
+    "n_test": 2379,
+    "n_hvg": 50,
+    "train_path": "manifest_out\\gene_features_448\\fold_0\\train_features.csv",
+    "test_path": "manifest_out\\gene_features_448\\fold_0\\test_features.csv",
+    "genes_path": "manifest_out\\gene_features_448\\fold_0\\hvg_genes.json"
+  },
+  "fold_1": {
+    "n_train": 8630,
+    "n_test": 2113,
+    "n_hvg": 50,
+    "train_path": "manifest_out\\gene_features_448\\fold_1\\train_features.csv",
+    "test_path": "manifest_out\\gene_features_448\\fold_1\\test_features.csv",
+    "genes_path": "manifest_out\\gene_features_448\\fold_1\\hvg_genes.json"
+  },
+  "fold_2": {
+    "n_train": 8630,
+    "n_test": 2113,
+    "n_hvg": 50,
+    "train_path": "manifest_out\\gene_features_448\\fold_2\\train_features.csv",
+    "test_path": "manifest_out\\gene_features_448\\fold_2\\test_features.csv",
+    "genes_path": "manifest_out\\gene_features_448\\fold_2\\hvg_genes.json"
+  },
+  "fold_3": {
+    "n_train": 8674,
+    "n_test": 2069,
+    "n_hvg": 50,
+    "train_path": "manifest_out\\gene_features_448\\fold_3\\train_features.csv",
+    "test_path": "manifest_out\\gene_features_448\\fold_3\\test_features.csv",
+    "genes_path": "manifest_out\\gene_features_448\\fold_3\\hvg_genes.json"
+  },
+  "fold_4": {
+    "n_train": 8674,
+    "n_test": 2069,
+    "n_hvg": 50,
+    "train_path": "manifest_out\\gene_features_448\\fold_4\\train_features.csv",
+    "test_path": "manifest_out\\gene_features_448\\fold_4\\test_features.csv",
+    "genes_path": "manifest_out\\gene_features_448\\fold_4\\hvg_genes.json"
+  }
+}

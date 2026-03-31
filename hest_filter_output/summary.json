@@ -1,0 +1,18 @@
+{
+  "n_rows": 5,
+  "n_unique_ids": 5,
+  "detected_columns": {
+    "id_col": "id",
+    "species_col": "species",
+    "tech_col": "st_technology",
+    "organ_col": "organ",
+    "oncotree_col": "oncotree_code",
+    "disease_col": "disease_state",
+    "patient_col": "patient"
+  },
+  "output_files": {
+    "filtered_csv": "hest_filter_output\\filtered_metadata.csv",
+    "ids_txt": "hest_filter_output\\ids.txt"
+  },
+  "n_unique_patients": 0
+}

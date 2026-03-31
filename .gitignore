@@ -1,0 +1,54 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Outils Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / éditeur
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.ipynb_checkpoints
+
+# gros artefacts
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.npy
+*.npz
+*.pkl
+*.joblib
+outputs/
+artifacts/
+data/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.npy
+*.npz
+*.pkl
+*.joblib

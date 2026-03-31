@@ -1,0 +1,6 @@
+sample_id,root_dir,h5ad_path,wsi_path,patch_dir,seg_dir,patch_image_count,image_count,wsi_count,h5ad_count,meta_count,artifact_count,all_files_count,json_paths,csv_paths,parquet_paths
+TENX180,cellvit_seg,st\TENX180.h5ad,wsis\TENX180.tif,patches_vis,,1,3,1,1,2,0,23,metadata\TENX180.json,,cellvit_seg\TENX180_cellvit_seg.parquet
+TENX182,cellvit_seg,st\TENX182.h5ad,wsis\TENX182.tif,patches_vis,,1,3,1,1,2,0,23,metadata\TENX182.json,,cellvit_seg\TENX182_cellvit_seg.parquet
+TENX183,cellvit_seg,st\TENX183.h5ad,wsis\TENX183.tif,patches_vis,,1,3,1,1,2,0,23,metadata\TENX183.json,,cellvit_seg\TENX183_cellvit_seg.parquet
+TENX184,cellvit_seg,st\TENX184.h5ad,wsis\TENX184.tif,patches_vis,,1,3,1,1,2,0,23,metadata\TENX184.json,,cellvit_seg\TENX184_cellvit_seg.parquet
+TENX185,cellvit_seg,st\TENX185.h5ad,wsis\TENX185.tif,patches_vis,,1,3,1,1,2,0,23,metadata\TENX185.json,,cellvit_seg\TENX185_cellvit_seg.parquet

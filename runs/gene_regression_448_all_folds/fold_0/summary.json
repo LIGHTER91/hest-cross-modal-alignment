@@ -1,0 +1,17 @@
+{
+  "fold_name": "fold_0",
+  "fold_dir": "manifest_out\\gene_features_448\\fold_0",
+  "best_epoch": 8,
+  "best_mean_pearson": 0.5253995656967163,
+  "best_metrics": {
+    "loss": 1.4421337318900447,
+    "mse": 1.4411758184432983,
+    "mae": 0.9611607193946838,
+    "mean_pearson": 0.5253995656967163
+  },
+  "freeze_mode": "layer4",
+  "epochs": 10,
+  "batch_size": 16,
+  "grad_accum_steps": 4,
+  "num_workers": 2
+}

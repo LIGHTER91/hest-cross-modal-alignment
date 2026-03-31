@@ -1,0 +1,6 @@
+sample_id,spot_id,patch_path,patch_filename,patch_relpath
+TENX180.png,TENX180,hest_data\patches_vis\TENX180.png,TENX180.png,TENX180.png
+TENX182.png,TENX182,hest_data\patches_vis\TENX182.png,TENX182.png,TENX182.png
+TENX183.png,TENX183,hest_data\patches_vis\TENX183.png,TENX183.png,TENX183.png
+TENX184.png,TENX184,hest_data\patches_vis\TENX184.png,TENX184.png,TENX184.png
+TENX185.png,TENX185,hest_data\patches_vis\TENX185.png,TENX185.png,TENX185.png

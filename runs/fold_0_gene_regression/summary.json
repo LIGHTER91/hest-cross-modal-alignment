@@ -1,0 +1,8 @@
+{
+  "best_mean_pearson": 0.5105759501457214,
+  "fold_dir": "manifest_out/gene_features_448/fold_0",
+  "freeze_mode": "layer4",
+  "epochs": 10,
+  "batch_size": 16,
+  "grad_accum_steps": 4
+}
